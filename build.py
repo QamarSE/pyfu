@@ -28,11 +28,17 @@ def run():
         "src/pyfu/cli.py"
     ], check=True)
 
-    # Remove build/ folder after PyInstaller, ignore permission errors
+    # Remove build/ folder after PyInstaller
     build_dir = Path("build")
     if build_dir.exists():
         shutil.rmtree(build_dir, ignore_errors=True)
         print("🗑️ build/ folder removed successfully")
+
+    # Remove cli.spec file in root if it exists
+    spec_file = Path("cli.spec")
+    if spec_file.exists():
+        spec_file.unlink()
+        print("🗑️ cli.spec removed successfully")
 
     exe_path = bin_path / "cli.exe"
     if exe_path.exists():
