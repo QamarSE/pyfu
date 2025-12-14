@@ -37,6 +37,8 @@ pyfu cleans, fixes, and upgrades these projects without forcing you to rewrite e
 pip install pyfu
 ```
 
+or use the binary in the bin/ folder.
+
 ---
 
 ## 🧪 Basic usage
